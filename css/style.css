@@ -277,9 +277,10 @@ font-size: 17px;
 }
 .icon{
     
-/* display: flex; */
-    
-/* justify-content: normal; */
+display: flex;
+
+align-items: center;
+    justify-contents:center;
     
 width: 27px;
     
