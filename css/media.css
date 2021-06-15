@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+@media(min-width:576px) and (max-width:767px){
+    .pricing-table {
+        margin-bottom: 30px;
+    }
+    .phone{
+        display: none;
+    }
+    .product {
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .get-this-theme h3 {
+        font-size: 20px;
+    }
+    .get-this-theme .btn-download{
+        font-size: 16px;
+    }
+    .get-this-theme .btn-features{
+        font-size: 16px;
+        margin-right: 26px !important;
+    }
+    .client {
+        width: 40%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+    }
+    .client_img{
+        margin-right: 25px;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+@media(min-width:0px) and (max-width:575px){
+    .phone{
+        display: none;
+    }
+    .banner {
+        text-align: center;
+    }
+    .banner h5 {
+        font-size: 17px;
+    }
+    .banner h2 {
+        font-size: 32px;
+        line-height: 38px;
+     
+    }
+    .product {
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+.reverse{
+    flex-direction: column-reverse;
+}
+.beautiful h5,
+.phone_customize h5{
+     text-align: center;
+     margin-top: 0;
+}
+.beautiful h2,
+.phone_customize h2{
+    text-align: center;
+}
+.heading
+{
+    text-align: center;
+}
+.beautiful {
+     padding-top: 30px;
+}
+.image-beautiful {
+
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+}
+.beautiful ul li {
+    font-size: 16px;
+}
+.beautiful p, .phone_customize p {
+    font-size: 16px;
+}
+.btn-features, .btn-download {
+    letter-spacing: 1px;
+    padding: 7px 7px;
+    font-size: 15px;
+}
+.get-this-theme h3 {
+    font-size: 17px;
+
+
+}
+.pricing-table {
+    margin-bottom: 30px;
+}
+.contact-form input[type=submit] {
+    margin-right: 25%;
+}
+
+.client {
+    width: 30%;
+    margin: auto;
+}
+
+
+.map{
+
+}
+    /* xtra small device media ends  */
+}
+
+@media(min-width:321px) and (max-width:440px){
+    .contact-form {
+        width: 80%;
+    }
+    .client{
+        width: 42%;
+    }
+
+
+}
+
+
+
+
+@media(min-width:0px) and (max-width:320px){
+    .btn-download {
+        margin-right: 10px !important;
+    }
+    .client {
+        width: 50%;
+    }
+    .get-this-theme h3 {
+        font-size: 15px;
+    }
+    .get-this-theme .btn-download{
+        font-size: 14px;
+    }
+    .get-this-theme .btn-features{
+        font-size: 14px;
+        margin-right: 26px !important;
+    }
+
+    .contact-form {
+        width: 85%;
+    }
+
+
+    /* 320 p ens here  */
+}
