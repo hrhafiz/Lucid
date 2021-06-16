@@ -36,7 +36,10 @@
     .client_img{
         margin-right: 25px;
     }
-
+    .navbar-light .navbar-nav .nav-item {
+        padding: 8px 15px;
+        font-size: 21px;
+    }
 
 
 
@@ -128,7 +131,10 @@
     top: 60%;
     
 }
-
+.navbar-light .navbar-nav .nav-item {
+    padding: 8px 15px;
+    font-size: 21px;
+}
 
 .map{
 
@@ -170,6 +176,10 @@
 
     .contact-form {
         width: 85%;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        padding: 5px 15px;
+        font-size: 18px;
     }
 
 
